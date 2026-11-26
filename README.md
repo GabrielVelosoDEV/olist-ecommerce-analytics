@@ -135,7 +135,7 @@ O banco `data/olist.db` é gerado em cerca de 4 segundos.
 ## Dados e licença
 
 Dados: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce),
-licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). O código deste repositório está sob licença MIT.
+licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (ver [`data/raw/LICENSE-DADOS.md`](data/raw/LICENSE-DADOS.md)). O código deste repositório está sob licença MIT.
 
 ---
 
