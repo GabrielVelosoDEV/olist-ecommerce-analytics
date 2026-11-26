@@ -1,0 +1,19 @@
+{
+  "pedidos": 98199,
+  "receita": 15735527.03,
+  "clientes": 94983,
+  "ticket_medio": 160.24,
+  "taxa_recompra_pct": 3.04,
+  "pct_no_prazo": 93.2,
+  "nota_media": 4.14,
+  "nota_no_prazo": 4.21,
+  "nota_atraso_7d": 1.69,
+  "pct_notas_ruins_atraso_7d": 79.5,
+  "share_sp_pct": 37.36,
+  "share_sudeste_pct": 64.6,
+  "categorias_classe_a": 17,
+  "categorias_total": 74,
+  "share_top10_vendedores_pct": 67.5,
+  "share_cartao_pct": 75.5,
+  "crescimento_receita_1s18_vs_1s17_pct": 180.9
+}
